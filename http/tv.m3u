@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, group-title="中央频道", CCTV-1
-http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1, group-title="中央频道", CCTV-2
 http://223.110.241.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
 #EXTINF:-1, group-title="中央频道", CCTV-3
 http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 #EXTINF:-1, group-title="中央频道", CCTV-4
-http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
 #EXTINF:-1, group-title="中央频道", CCTV-5
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 #EXTINF:-1, group-title="中央频道", CCTV-6
@@ -37,6 +37,8 @@ http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
 http://223.110.241.204:6610/gitv/live1/G_BEIJING/G_BEIJING/
 #EXTINF:-1, group-title="地方频道", 吉林卫视
 http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/
+#EXTINF:-1, group-title="地方频道", 四川卫视
+http://223.110.241.204:6610/gitv/live1/SCWS/SCWS/
 #EXTINF:-1, group-title="地方频道", 天津卫视
 http://223.110.241.204:6610/gitv/live1/TJWS/TJWS/
 #EXTINF:-1, group-title="地方频道", 宁夏卫视
@@ -44,7 +46,7 @@ http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1, group-title="地方频道", 安徽卫视
 http://223.110.241.204:6610/gitv/live1/AHWS/AHWS/
 #EXTINF:-1, group-title="地方频道", 山东卫视
-http://223.110.241.204:6610/gitv/live1/SDWS/SDWS/
+http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
 #EXTINF:-1, group-title="地方频道", 山西卫视
 http://223.110.241.204:6610/gitv/live1/SXWS/SXWS/
 #EXTINF:-1, group-title="地方频道", 广东卫视
@@ -94,7 +96,7 @@ http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 #EXTINF:-1, group-title="地方频道", 内蒙古卫视
 http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
-http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
 #EXTINF:-1, group-title="地方频道", 江苏休闲体育
 http://223.110.241.204:6610/gitv/live1/G_JSTY/G_JSTY/
 #EXTINF:-1, group-title="地方频道", 香港耀才财经
@@ -137,8 +139,8 @@ http://223.110.241.204:6610/gitv/live1/G_XINYULE/G_XINYULE/
 http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:-1, group-title="其他频道", 高尔夫
 http://223.110.241.204:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
-#EXTINF:-1, group-title="其他频道", CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, group-title="其他频道", RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 #EXTINF:-1, group-title="其他频道", 东南卫视
 http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
 #EXTINF:-1, group-title="其他频道", 京视剧场
@@ -191,34 +193,26 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1, group-title="其他频道", TVCreta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", ~7月24日~
+http://stream.dubstep.fm:80/256mp3
 #EXTINF:-1, group-title="其他频道", EmaratTV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1, group-title="其他频道", NovyjMir
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", +FreeIPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1, group-title="其他频道", SaudiNews
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
+#EXTINF:-1, group-title="其他频道", 韩-GOODTV
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", Telestar1
 http://193.34.109.10:8090
 #EXTINF:-1, group-title="其他频道", telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1, group-title="其他频道", FunXHipHop
-http://icecast.omroep.nl/funx-hiphop-sb-mp3
-#EXTINF:-1, group-title="其他频道", KTVAlArabi
-https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", AlfaOmegaTV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:-1, group-title="其他频道", KTV1(Opt-1)
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", KTV2(Opt-2)
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", KTVAlMajlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", 92News(Opt-1)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", =July.12.2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1, group-title="其他频道", TVPlusSuceava
+http://85.186.146.34:8080
 #EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-1)
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-2)
@@ -229,25 +223,47 @@ http://5.63.151.52:7058/stream
 http://198.15.94.34:8024/stream
 #EXTINF:-1, group-title="其他频道", TVKujawy(Opt-1)
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1, group-title="其他频道", ThePowerStation
+http://5.63.151.52:7032/stream
 #EXTINF:-1, group-title="其他频道", 2SMSydney[Opt-1]
 http://144.140.228.109:8220/mp3/master.m3u8
 #EXTINF:-1, group-title="其他频道", FunXLatin[Opt-1]
 http://icecast.omroep.nl/funx-latin-bb-mp3
-#EXTINF:-1, group-title="其他频道", SaudiTVDocumentary
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
-#EXTINF:-1, group-title="广播频道", 4CRB89.3FM
-http://stream.4crb.com:8000/stream/1/
+#EXTINF:-1, group-title="其他频道", FunXLatin[Opt-2]
+http://icecast.omroep.nl/funx-latin-sb-mp3
+#EXTINF:-1, group-title="其他频道", ShansonTV(Opt-1)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", DesiChannel(Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", FunXDenHaag[Opt-2]
+http://icecast.omroep.nl/funx-denhaag-sb-mp3
+#EXTINF:-1, group-title="其他频道", KOMO4News(Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1, group-title="其他频道", KR-arirang(English)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", AmbientSleepingPill[Opt-1]
+http://163.172.169.217:80/asp-s
+#EXTINF:-1, group-title="其他频道", AmbientSleepingPill[Opt-2]
+http://163.172.169.217:80/asp-h
+#EXTINF:-1, group-title="广播频道", Antena1FM94.7
+http://5.135.83.159:80/stream2
 #EXTINF:-1, group-title="广播频道", ABCRadioSydney
 http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
-#EXTINF:-1, group-title="广播频道", MondoBongoRadio
-http://5.63.151.52:7082/stream
-#EXTINF:-1, group-title="广播频道", ABCRadioNational
-http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+#EXTINF:-1, group-title="广播频道", PulsRadioDance
+http://213.251.190.165:80/pulsHD.mp3
+#EXTINF:-1, group-title="广播频道", BritishSixtiesRadio
+http://5.63.151.52:7070/stream
+#EXTINF:-1, group-title="广播频道", ABradio.cz-ShadowBox
+http://ice3.abradio.cz/shadowbox128.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Alternative
+http://ice3.abradio.cz/alternative128.mp3
 #EXTINF:-1, group-title="广播频道", GalGalatz91.8FMTelAviv
 http://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1, group-title="广播频道", SawtElMada92.4FMBeirut
+http://audiostreaming.itworkscdn.com:9018/;
+#EXTINF:-1, group-title="广播频道", 100.1FMFlagstaff-Prescott
+http://206.190.135.28:8602/listen.
 #EXTINF:-1, group-title="广播频道", RadioBI88.7FMAguascalientes
 http://201.159.48.107:2860/
-#EXTINF:-1, group-title="广播频道", GoldiesRadio107.9FMSint-Niklaas
-http://5.63.151.52:7064/stream
-#EXTINF:-1, group-title="广播频道", PopularStereo105.6FMBarranquilla
-http://radio30.virtualtronics.com:8192/stream/1/
+#EXTINF:-1, group-title="广播频道", LaPoderosa107.7FMAguascalientes
+http://201.159.48.105:2871/
